@@ -20,3 +20,9 @@ class MyTestCase(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
+
+    """
+    when we wrote average function with pass, test unit failed
+    but when we corrected average method test passed
+    
+    """
