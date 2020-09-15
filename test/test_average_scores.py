@@ -1,3 +1,11 @@
+"""
+Author:Viktoriia Denys
+Program:average_scores.py
+program average_scores.py reads in one person's names, first and last, their age and three scores out of 100.
+Taking the three scores and finding the average, storing into a variable.
+"""
+
+
 import unittest
 from unittest import mock
 
